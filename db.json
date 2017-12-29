@@ -1,15 +1,16 @@
-[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "delectus aut autem",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "quis ut nam facilis et officia qui",
-    "completed": false
-  },
- 
- ]
+{
+    "mails": [
+        {
+            "title": "scelerisque sollicitudin sed odio tellus",
+            "category": "velit lacus ante dolor odio",
+            "subject": "tincidunt pulvinar placerat tellus lacus",
+            "from": "lacus amet massa curabitur vel"
+        },
+        {
+            "title": "aliquam lectus tempor porta sit",
+            "category": "placerat sollicitudin magna at neque",
+            "subject": "etiam sed porta quis turpis",
+            "from": "magna egestas sit malesuada pretium"
+        }
+    ]
+}
