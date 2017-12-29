@@ -5,14 +5,14 @@
     "title": "delectus aut autem",
     "completed": false
     "subject":"Office Assistant IV",
-    "body":"condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis",
+    "body":"condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum",
   },
   {
     "userId": 1,
     "id": 2,
     "title": "delectus aut autem",
     "subject":"Office Assistant IV",
-    "body":"condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis",
+    "body":"condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu inte",
   }
 
 ]
