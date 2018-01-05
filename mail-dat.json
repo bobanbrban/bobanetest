@@ -10,14 +10,14 @@
             "date": "2017-06-18",
             "motto": "{moto}"
         },
-         {
-            "title": "Test For Agave Lab",
-            "subject": "Fondeo Directo",
-            "body": "aenean orci neque fringilla ac enean orci neque fringilla acenean orci neque fringilla acenean orci neque fringilla acenean orci neque fringilla ac",
-            "from": "Slobodan Mihajlovic",
-            "to": "AgaveLab",
-            "Tag": "Indigo",
-            "date": "2017-06-18",
-            "motto": "{moto}"
+        {
+           "title": "Test For Agave Lab",
+           "subject": "Fondeo Directo",
+           "body": "aenean orci neque fringilla ac enean orci neque fringilla acenean orci neque fringilla acenean orci neque fringilla acenean orci neque fringilla ac",
+           "from": "Slobodan Mihajlovic",
+           "to": "AgaveLab",
+           "Tag": "Indigo",
+           "date": "2017-06-18",
+           "motto": "{moto}"
         }    
     ]
