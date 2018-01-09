@@ -9,7 +9,8 @@
             "to": "AgaveLab",
             "Tag": "Indigo",
             "date": "May 1",
-            "dateFull": "Thursday May 26. 11:09AM"
+            "dateFull": "Thursday May 26. 11:09AM",
+            "isReaded" : false,
         },
         {
            "title": "Agave Lab2",
@@ -20,6 +21,7 @@
            "to": "AgaveLab",
            "Tag": "Indigo",
            "date": "Jun 1",
-           "dateFull": "Friday Jun 26. 11:09AM"
+           "dateFull": "Friday Jun 26. 11:09AM",
+           "isReaded" : false,
         }    
     ]
